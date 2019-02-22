@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.awt.Robot;
-//				extends는 원하는 걸 가져다 쓰는 것이고 implements는 다 가져온후 자신에게 맞게 다듬어 쓴는 것
+//				extends는 원하는 걸 가져다 쓰는 것이고 implements는 다 가져온후 자신에게 맞게 다듬어 는 것
 public class ActionEventEx extends Frame implements ActionListener,WindowListener {
    /**
 	 * 
