@@ -22,7 +22,7 @@ while True:
             print("left")
         if data == "40":
             print("right")
-        if data == "50"
+        if data == "50":
             print("stop")
         if data == "100":
             print("프로그램을 종료합니다")
